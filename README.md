@@ -2,6 +2,7 @@
 ### Author: _Ved Prakash._ 
 
 ### Official Documents
+
 | Document Type | Url |
 | ------ | --------- |
 | Spinnaker Installation | https://spinnaker.io/docs/setup/install/  |
@@ -10,6 +11,8 @@
 | FE Plugin Guide | https://spinnaker.io/docs/guides/developer/plugin-creator/plugin-frontend/ |
 | Nomad Docs | https://www.nomadproject.io/ |
 | Nomad Plugin | https://github.com/spinnaker-plugin-examples/nomadPlugin |
+
+> Note - Below Command is tested in Mac OS
 
 ### Pre-requisites
 - At least 4 cores and 16GB of RAM available in the cluster.

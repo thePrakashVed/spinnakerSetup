@@ -179,8 +179,8 @@ NAME                                READY   STATUS             RESTARTS         
 minio-67f7d447b7-95p2v              1/1     Running            3 (6h52m ago)    2h   10.x.x.60   docker-desktop   <none>           <none>
 spin-clouddriver-5cc6669746-rd6kd   1/1     Running            1 (6h52m ago)    2h     10.x.x.66   docker-desktop   <none>           <none>
 spin-deck-5f9fbb879c-r4xqh          1/1     Running            3 (6h52m ago)    2h   10.x.x.54   docker-desktop   <none>           <none>
-spin-echo-65c7bf46d9-7pkwt          0/1     Running            29 (8m12s ago)   2h   10.x.x.57   docker-desktop   <none>           <none>
-spin-front50-9dcfd8c46-dz9km        0/1     Running            48 (4m15s ago)   2h     10.x.x.63   docker-desktop   <none>           <none>
+spin-echo-65c7bf46d9-7pkwt          1/1     Running            29 (8m12s ago)   2h   10.x.x.57   docker-desktop   <none>           <none>
+spin-front50-9dcfd8c46-dz9km        1/1     Running            48 (4m15s ago)   2h     10.x.x.63   docker-desktop   <none>           <none>
 spin-gate-5ff4574d65-dx8dd          1/1     Running            3 (6h52m ago)    2h   10.x.x.62   docker-desktop   <none>           <none>
 spin-orca-679949d9-svrvv            1/1     Running            3 (6h52m ago)    2h   10.x.x.58   docker-desktop   <none>           <none>
 spin-redis-6dd5fd554f-hssvk         1/1     Running            3 (6h52m ago)    2h   10.x.x.59   docker-desktop   <none>           <none>

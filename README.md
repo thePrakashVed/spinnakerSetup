@@ -30,7 +30,7 @@ docker run --name halyard -v [.hal path]:/home/spinnaker/.hal -v [.kube config p
 ```
 
 > Note: `[.hal path]` = `/Users/[UserName]/.hal`
-> `[.kube config path]` = `/Users/vedprakash/.kube/config`
+> `[.kube config path]` = `/Users/[UserName]/.kube/config`
 
 
 #### Get a shell into Halyard container

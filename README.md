@@ -323,6 +323,13 @@ To
 
 ### Again Redeploy and Load the UI and check wether all pages is loading 
 
+### If facing `CORS Error` then run below command
+
+```
+hal config security ui edit --corsAccessPattern 'http://localhost'
+```
+### Again Redeploy and Load the UI and check wether all pages is loading 
+
 ## License
 
 MIT
